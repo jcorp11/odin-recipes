@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+body *{
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    color: rgb(34, 70, 201);
+}
+
+img{
+    height: 250px;
+    width: auto;
+}
